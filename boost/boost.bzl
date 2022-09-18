@@ -143,6 +143,6 @@ def boost_deps():
             sha256 = "da3411ea45622579d419bfda66f45cd0f8c32a181d84adfa936f5688388995cf",
             strip_prefix = "boost_1_68_0",
             urls = [
-                "https://netix.dl.sourceforge.net/project/boost/boost/1.68.0/boost_1_68_0.tar.gz"
+                "https://netix.dl.sourceforge.net/project/boost/boost/1.73.0/boost_1_73_0.tar.gz"
             ],
         )
